@@ -1,5 +1,5 @@
 # Mnemonic brute force in C++
-
+Attention: Antivirus may swear at the archive.
 # How install?
 
 Use Install.exe 
